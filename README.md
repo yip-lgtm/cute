@@ -1,5 +1,3 @@
-# 鋼鐵與意志
+# Copper and Tellurium
 
-手機網頁版，發布在 https://yip-lgtm.github.io/cute/
-
-從馬恩河走到諾曼第。沒有伺服器，檔案室的自動考證在這個網址上關閉，館藏仍可逐件揭開。
+銅與碲。可愛二次元戰史，發布在 https://yip-lgtm.github.io/cute/
