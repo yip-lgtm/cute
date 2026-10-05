@@ -1,3 +1,3 @@
 # Copper and Tellurium
 
-銅與碲。可愛二次元戰史，發布在 https://yip-lgtm.github.io/cute/
+銅與碲。從火器到核威懾與無人機，劇本按日更新。
